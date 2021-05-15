@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875971348023",
+    "project_id": "pure-courier-313516",
+    "storage_bucket": "pure-courier-313516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875971348023:android:90fd354a79939da9e7e1b2",
+        "android_client_info": {
+          "package_name": "com.example.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875971348023-a11qcag30o7slm36otq0ddm8pmotlt8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwUrHJr7PvnAJja7-7AJZbRc4Z21yiNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875971348023-a11qcag30o7slm36otq0ddm8pmotlt8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
